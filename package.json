@@ -14,5 +14,9 @@
     "buildinpublic"
   ],
   "author": "rohail",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
 }
